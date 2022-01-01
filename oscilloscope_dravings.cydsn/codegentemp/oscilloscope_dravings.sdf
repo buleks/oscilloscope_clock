@@ -1,0 +1,23 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2022-01-01T14:42:43Z")
+ (DESIGN "oscilloscope_dravings")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.4")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "oscilloscope_dravings")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT ClockBlock.clk_bus_glb isr_1.clock (0.000:0.000:0.000))
+    (INTERCONNECT \\Timer_1\:TimerHW\\.irq isr_1.interrupt (1.000:1.000:1.000))
+    (INTERCONNECT __ONE__.q \\Timer_1\:TimerHW\\.enable (0.000:0.000:0.000))
+    (INTERCONNECT ClockBlock.clk_bus_glb_ff \\Timer_1\:TimerHW\\.clock (0.000:0.000:0.000))
+    (INTERCONNECT LED_Pin\(0\)_PAD LED_Pin\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)
