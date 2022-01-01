@@ -2,7 +2,7 @@
 --	Conversion of oscilloscope_dravings.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Sat Jan 01 15:42:39 2022
+--	Sat Jan 01 20:30:30 2022
 --
 
 USE cypress.cypress.all;

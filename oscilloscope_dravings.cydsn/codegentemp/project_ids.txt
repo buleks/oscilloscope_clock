@@ -1,6 +1,6 @@
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|56d998f3-f126-4429-a722-24700cd15b83
-C:\Users\buleks\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|3f3905b3-daf3-4c44-aeb0-824e0e3155f7
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|12d1bbf3-b8ef-4289-a869-33245a769a66
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0c7dc7f7-0400-4e7b-b7cf-8ab3574f0d78
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d8c7462c-97ff-4432-89c9-478c9ad7aa72
-C:\Users\buleks\Documents\PSoC Creator\Workspace01\oscilloscope_dravings.cydsn\oscilloscope_dravings.cyprj|e3231802-c035-4339-a7fa-ca707ce313ba
+C:\Users\buleks\Desktop\oscilloscope_clock\oscilloscope_dravings.cydsn\oscilloscope_dravings.cyprj|5726c02c-2844-4433-9325-32a7d93e8a10
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|943aee62-8079-4de4-8262-6405d2dfbe85
+C:\Users\buleks\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|a969007c-dde0-4362-8468-0765be57075a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|667b282a-124c-4e76-adee-5199e7e02248
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|363c0017-5c9d-4b07-9c30-dd5a877fe50e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|fab25f50-b3ca-44fa-9f04-70d22af06f5a

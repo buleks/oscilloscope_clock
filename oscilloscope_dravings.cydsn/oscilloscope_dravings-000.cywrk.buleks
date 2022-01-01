@@ -145,36 +145,6 @@
 <VisibleNodeIds>
 <v>oscilloscope_dravings-000</v>
 <v>oscilloscope_dravings-000\oscilloscope_dravings</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC1.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\DAC2.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_Pin.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1_PM.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1_PM.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_2.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_2_PM.lst</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\oscilloscope_dravings.elf</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\oscilloscope_dravings.hex</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\CortexM3\ARM_GCC_541\Debug\oscilloscope_dravings.map</v>
-<v>oscilloscope_dravings-000\oscilloscope_dravings\oscilloscope_dravings.gpdsc</v>
 <v>oscilloscope_dravings-000\oscilloscope_dravings\oscilloscope_dravings.rpt</v>
 <v>oscilloscope_dravings-000\oscilloscope_dravings\oscilloscope_dravings_timing.html</v>
 </VisibleNodeIds>

@@ -114,12 +114,24 @@ void clock_face()
     }
 }
 
-void seconds_pointer(int seconds)
+void minute_pointer(int minute)
 {
     const int x = 70;
     const int y = 70;
     const int radius = 50;
-    int angle = (seconds*6+90)%360;
+    int angle = (minute*6+90)%360;
+    int xp = -cosine[angle]*radius/100+x;
+    int yp = sine[angle]*radius/100+y;
+    line(x,y,xp,yp,radius);
+    
+}
+
+void hours_pointer(int hour)
+{
+    const int x = 70;
+    const int y = 70;
+    const int radius = 40;
+    int angle = (hour*30+90)%360;
     int xp = -cosine[angle]*radius/100+x;
     int yp = sine[angle]*radius/100+y;
     line(x,y,xp,yp,radius);
@@ -127,7 +139,8 @@ void seconds_pointer(int seconds)
 }
 
 int seconds = 0;
-
+int minutes = 51;
+int hours = 8;
 void timer_int(void) //executed every 2.5ms
 {
     static int x = 0;
@@ -135,12 +148,24 @@ void timer_int(void) //executed every 2.5ms
     if(x > 400)
     {
         seconds++;
-        if(seconds >60){seconds = 0;}
+        if(seconds >60){seconds = 0;minutes++;}
         x=0;
+        if(minutes > 60){minutes = 0;hours++;}
+        if(hours > 12) {hours =0;}
     }
     x++;
 }
-
+void seconds_circle(int second)
+{
+    const int x = 70;
+    const int y = 70;
+    const int radius = 70;
+    int angle = (second*6+90)%360;
+    int xp = -cosine[angle]*radius/100+x;
+    int yp = sine[angle]*radius/100+y;
+    circle(xp,yp,2);
+    
+}
 int main(void)
 {
     CyGlobalIntEnable; /* Enable global interrupts. */
@@ -157,7 +182,9 @@ int main(void)
         //horizonlines(6);
         //squares(20,20);
         clock_face();
-        seconds_pointer(seconds);
+        seconds_circle(seconds);
+        minute_pointer(minutes);
+        hours_pointer(hours);
        // CyDelay(50);
        
     }
